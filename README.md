@@ -71,11 +71,11 @@ const kaboreFrank = {
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:kabore.frank.dev@gmail.com">
+  <a href="mailto:kaborefrank.891@gmail.com">
     <img src="https://img.shields.io/badge/Email-667EEA?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
-  <a href="https://github.com/KaboreFrank">
+  <a href="https://github.com/Zeuxi">
     <img src="https://img.shields.io/badge/GitHub-667EEA?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

@@ -68,6 +68,16 @@ const kaboreFrank = {
 - ⚽ **Football Club Management** - Complete database solution using Access
 - 🌐 **Personal Portfolio** - HTML, CSS, and JavaScript showcase
 
+📈 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Zeuxi&show_icons=true&theme=radical&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Zeuxi&layout=compact&theme=radical&hide_border=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=Zeuxi&theme=radical&hide_border=true
+
+</div>
+
 ## 🤝 Let's Connect
 
 <p align="center">
